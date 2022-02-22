@@ -1,7 +1,7 @@
 {
     "name": "@School-Of-Tech-Futures-UK/marcoActionsDemo",
     "version": "0.0.1",
-    "description": "Neil Jennings Academy (NJA) Simple pokemon app for demos and use in github",
+    "description": "Simple pokemon app for demos and use in github",
     "author": "InfinityWorks",
     "license": "MIT",
     "main": "populatePokedex.js",
@@ -16,7 +16,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/infinityworks/academy-github-actions-demo.git"
+        "url": "https://www.github.com/School-Of-Tech-Futures-UK/marcoActionsDemo.git"
     },
     "dependencies": {
         "express": "^4.17.1",
